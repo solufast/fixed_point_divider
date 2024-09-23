@@ -2,6 +2,7 @@
 Verilog Implementation of Robust and Efficient Fixed Point Format Divider.
 
 # Sample Test Run Outputs
+
 ===== Test Case 1: 2.500000 / 1.500000 =====
 Output Quotient:     1747626 (1.666666)
 Current State: 0
@@ -29,8 +30,6 @@ Error Flag: 0
 ===============================
 Test Case 2 Passed!
 ===== Test Case 3: 2.500000 / -1.500000 =====
-relaunch_sim: Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 2848.410 ; gain = 0.000
-run all
 Output Quotient:    -1747626 (-1.666666)
 Current State: 0
 Step Count: 53
