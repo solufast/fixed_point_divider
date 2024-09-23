@@ -117,3 +117,7 @@ Error Flag: 1
 Test Case 8 Passed (Handled Division by Zero)!
 All 8 Test Cases Passed!
 </pre>
+
+# Waveform of Fixed Point Divider
+
+![Waveform of Fixed Point Divider](images/waveform.png)
