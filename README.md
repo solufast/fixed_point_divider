@@ -1,4 +1,4 @@
-# fixed_point_divider
+# Fixed Point Divider
 Verilog Implementation of Robust and Efficient Fixed Point Format Divider.
 
 # Sample Test Run Outputs
